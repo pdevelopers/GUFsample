@@ -10,7 +10,7 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: 'Hello Patryk',
-  name: '',
+  name: 'Hello Patryk',
   subtitle: '',
   cta: '',
 };
